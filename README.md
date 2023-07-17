@@ -1,2 +1,2 @@
-# springBoot_mongoDB
-Creating API with SpringBoot and MongoDB
+# springBoot_postgreSQL
+Creating API with SpringBoot and PostgeSQL
